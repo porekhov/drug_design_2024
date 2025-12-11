@@ -15,3 +15,5 @@ supporting materials for the drug design class, spring 2024
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/drug_design_2024/blob/main/docking.ipynb) Running docking in Vina/Qvina.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/drug_design_2024/blob/main/docking_master_2024.ipynb) Master-class on ligand docking.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/porekhov/drug_design_2024/blob/main/MD_water_diffusion.ipynb) Running simple MD simulation of a water cube using OpenMM toolkit.
